@@ -1,0 +1,61 @@
+.jumbotron {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 640px;
+}
+
+section {
+    padding-top:6rem;
+}
+
+section#contact {
+    padding-bottom:10rem;
+} 
+#diskon {
+    text-align: left;
+}
+
+#bebas {
+    text-align: right;
+}
+
+#flexibel {
+    text-align: left;
+}
+
+#bersih {
+    text-align: right;
+}
+
+footer{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.icon {
+    display: inline-block;
+    margin: 5px;
+}
+
+#delete,#edit,#tambah {
+    text-decoration:none; 
+    color:white;
+}
+
+.table,td {
+    font-size: 20px;
+}
+
+
+#main,td {
+    font-size: 20px;
+}
+
+#header-main a {
+    text-decoration:none; 
+    color:black;
+}
+
