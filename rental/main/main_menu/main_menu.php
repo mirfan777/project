@@ -137,7 +137,7 @@ if( !isset($_SESSION["login"])){
       <!-- footer -->
       <footer class="text-center bg-light">
         <p>Created by Maulana Irfan & Ade Surya</p>
-        <p>Photo by <a href="https://unsplash.com/@katiemoum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Katie Moum</a> on <a href="https://unsplash.com/s/photos/road?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
+        Photo by <a href="https://unsplash.com/@williambout?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">William Bout</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> <br>
         <a href="#" id="fb" class="icon"><h2><b><i class="bi bi-facebook"></i></b></h2></a>
         <a href="#" id="ig" class="icon"><h2><b><i class="bi bi-instagram"></i></b></h2></a>
         <a href="#" id="tw" class="icon"><h2><b><i class="bi bi-twitter"></i></b></h2></a>
